@@ -269,6 +269,11 @@ body,html{
      border: none;
      font-size: 1.15em;
      font-weight: 700;
+     transition: all .5s ease;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color:#FF6161!important;
+    transition: all .5s ease;
 }
  button.viewButton a {
      background: #FF6161;
